@@ -6,4 +6,8 @@ unblock previously blocked people.
 
 ```plain
 $unBlock[xyz@s.whatsapp.net]
+
+//example
+
+$unBlock[0851****@s.whatsapp.net]
 ```
